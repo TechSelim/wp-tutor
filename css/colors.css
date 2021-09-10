@@ -1,0 +1,83 @@
+/*Colors*/
+.tp-form-shortcode-wrap {
+    color: #ffffff;
+    background-color: #062e57
+}
+
+.tp-form-shortcode-wrap .tp-form-header {
+    background-color: #092746
+}
+
+.tp-form-shortcode-wrap .tp-form-header:after {
+    border-left-color: #092746
+}
+
+.tp-form-shortcode-wrap .tp-form-header > * {
+    color: #ffffff
+}
+
+.tp-form-shortcode-wrap .tp-form-header h4 {
+    color: #aece61
+}
+
+.tp-form-shortcode-wrap .select_container, .tp-form-shortcode-wrap input {
+    font-family: "Titillium Web", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.2em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: normal
+}
+
+.tp-form-shortcode-wrap .select_container, .tp-form-shortcode-wrap input {
+    color: #ffffff;
+    border-color: #183e64;
+    background-color: #183e64
+}
+
+.tp-form-shortcode-wrap .select_container:after {
+    color: #ffffff
+}
+
+.tp-form-shortcode-wrap .select_container:before {
+    background-color: #183e64
+}
+
+.tp-post {
+    border-color: #aece61
+}
+
+.tp-post .tp-content {
+    background-color: #f6f8fa
+}
+
+.tp-post .tp-content .tp-title-link {
+    color: #134477
+}
+
+.tp-post .tp-content .tp-title-link:hover {
+    color: #92b343
+}
+
+.tp-post .tp-content .tp-title-read-more {
+    color: #ffffff;
+    background-color: #aece61
+}
+
+.tp-post .tp-content .tp-title-read-more:hover {
+    background-color: #92b343
+}
+
+.tp-post .tp-price:before {
+    background-color: #aece61
+}
+
+.tp-post .tp-price * {
+    color: #ffffff
+}
+
+.tp-post:before, .tp-post:after {
+    background-color: #aece61
+}
